@@ -1,1 +1,1 @@
-Automatical detection of bee species from images
+Train a convolutional neural network to classify images of ASL letters
