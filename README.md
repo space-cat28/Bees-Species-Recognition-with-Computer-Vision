@@ -1,2 +1,2 @@
-# Naive-Bees
-Computer Vision project: Automatical detection of bee species from images
+# Bees Species Recognition with Computer Vision
+Automatical detection of bee species from images
