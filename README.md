@@ -1,1 +1,1 @@
-Train a convolutional neural network to classify images of ASL letters
+Train a support vector machine model to classify images of honey and bumble bees
